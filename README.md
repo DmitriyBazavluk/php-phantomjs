@@ -1,3 +1,7 @@
+Fork
+=============
+This fork is created to improve compatibility with Laravel / Lumen and should be fixed and merged.
+
 PHP PhantomJS
 =============
 

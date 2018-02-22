@@ -1,6 +1,6 @@
 {
-    "name": "jonnyw/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "name": "bazavlukd/php-phantomjs",
+    "description": "A PHP wrapper for loading pages through PhantomJS - Forked version with ServiceContainer error fix for better Laravel / Lumen support",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",
@@ -9,6 +9,10 @@
             "name": "Jonny Wenmoth",
             "email": "contact@jonnyw.me",
             "homepage": "http://jonnyw.me/"
+        },
+        {
+            "name": "Dmitriy Bazavluk",
+            "email": "bazavluk.dev@gmail.com"
         }
     ],
     "minimum-stability": "stable",
